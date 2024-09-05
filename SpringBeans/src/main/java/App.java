@@ -1,5 +1,7 @@
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 
+import com.neotron.car.Corolla;
+import com.neotron.car.Swift;
 import com.neotron.interfaces.Car;
 
 public class App {
